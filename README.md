@@ -1,2 +1,4 @@
 # ofc-emp-management-system-master
 My Project name is "emp-manage System" ,Which is an office employee managements system basically ,this project manages the employee in formation like  on which day an employee joins a company and on which day an employee leaves a company all the personal details also, we have added the functionality to view , add ,remove &amp; filter out employee details. We use python as a programing language and use the #Django framework to create APIs and user interfaces we use SQLite database to store the data . and perform the cord operations by using Django ORM queries and for designing purpose we use Html CSS &amp; Bootstrap
+# data
+its responsible for handling the daya to day issues and fine-tuning the applications foe enhanced performe and implementitng the (MVT architecture) in devloping this
